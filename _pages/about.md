@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Ting Gao. I'm currently pursuing a Ph.D. in AI Agents, Reinforcement Learning, or Optimization. If you're interested in collaborating or learning more about my work, feel free to reach out! :)
+Hi, this is Ting Gao. **I'm currently pursuing a Ph.D. in AI Agents, Reinforcement Learning, or Optimization.** If you're interested in collaborating or learning more about my work, feel free to reach out! :)
 
 My research interests include AI agents, Reinforcement Learning, and Optimization.
 
@@ -23,7 +23,7 @@ Research and Publications
 ------
 My research interests revolve around AI Agents, Reinforcement Learning, and Optimization. 
 
-I have several publications to my name, including an invited paper on reliability and security in swarm robots and AI agents, and a paper on a **Bit-Oriented Distance-based Intelligent Optimizer (BODI Optimizer)** for key recovery, which achieves significant reductions in power traces compared to state-of-the-art methods and is currently under review for USENIX Security'25. I've also contributed to research on zero-shot robotic manipulation and a review on security and privacy in swarm intelligence systems. At UBC, I applied reinforcement learning algorithms to solve the OSY problem and explored the efficiency of the multi-agent DDPG algorithm.
+I have several publications to my name, including a paper on reliability and security in swarm robots and AI agents supervised by Prof. Yaochu Jin at Westlake University, and a paper on a **Bit-Oriented Distance-based Intelligent Optimizer (BODI Optimizer)** for key recovery, which achieves significant reductions in power traces compared to state-of-the-art methods and is currently under review for USENIX Security'25. I've also contributed to research on zero-shot robotic manipulation and a review on security and privacy in swarm intelligence systems. At the same time, I applied **reinforcement learning algorithms (e.g. PPO, DDPG)** to solve the OSY problem and explored the efficiency of the multi-agent DDPG algorithm at UBC.
 
 The website is still under construction...
 ------
