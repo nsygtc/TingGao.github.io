@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Pages of Ting Gao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, this is Ting Gao from China. I'm a research assistant at the School of Engineering, Westlake University in China, supervised by [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=zh-TW).  
+
+My research interests include Ai agents, Reinforcement Learning, and Optimization.
+
+Here is my [resume](../assets/Resume_TingGao.pdf), and you can find more information about me on it.
+
+Welcome to collaborate with all of you :)
 
 A data-driven personal website
 ======
