@@ -11,7 +11,7 @@ Hi, this is Ting Gao from China. I'm a research assistant at the School of Engin
 
 My research interests include AI agents, Reinforcement Learning, and Optimization.
 
-Here is my [resume](./assets/Resume_TingGao.pdf), and you can find more information about me on it.
+Here is my [resume](../assets/Resume_TingGao.pdf), and you can find more information about me on it.
 
 Welcome to collaborate with all of you :)
 
