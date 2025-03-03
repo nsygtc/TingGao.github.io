@@ -7,15 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Ting Gao from China. I'm a research assistant at the School of Engineering, Westlake University in China, supervised by [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=zh-TW).  
+Hi, this is Ting Gao from China. I'm a research assistant at the School of Engineering, Westlake University in China, supervised by Prof. [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=zh-TW). I'm currently pursuing a Ph.D. in AI Agents, Reinforcement Learning, and Optimization. If you're interested in collaborating or learning more about my work, feel free to reach out! :)
 
 My research interests include AI agents, Reinforcement Learning, and Optimization.
 
 Here is my [resume](../assets/Resume_TingGao.pdf), and you can find more information about me on it.
 
-Welcome to collaborate with all of you :)
+Education Background
+------
+I recently completed my Master's degree in Computer Technology at the **Beijing Institute of Technology**, where I achieved a GPA of 3.68/4.00 and was recognized with a high IELTS score of 7. During my master's program, I had the privilege of visiting The **University of British Columbia (UBC)**, where I worked under the supervision of Prof. [Jasmin Jelovica](https://mech.ubc.ca/jasmin-jelovica/), focusing on **Multi-Agent Search in Optimization**.
 
-The website is under construction...
+My academic journey began at **Harbin Engineering University**, where I earned my Bachelor's degree in Computer Science and Technology with a GPA of 3.63/4.00, ranking 6th out of 273 students (top 2.2%). This strong foundation has propelled me into various research endeavors and publications.
+
+Research and Publications
+------
+My research interests revolve around AI Agents, Reinforcement Learning, and Optimization. 
+
+I have several publications to my name, including an invited paper on reliability and security in swarm robots and AI agents, and a paper on a **Bit-Oriented Distance-based Intelligent Optimizer (BODI Optimizer)** for key recovery, which achieves significant reductions in power traces compared to state-of-the-art methods and is currently under review for USENIX Security'25. I've also contributed to research on zero-shot robotic manipulation and a review on security and privacy in swarm intelligence systems. At UBC, I applied reinforcement learning algorithms to solve the OSY problem and explored the efficiency of the multi-agent DDPG algorithm.
+
+The website is still under construction...
 ------
 <!--
 A data-driven personal website
