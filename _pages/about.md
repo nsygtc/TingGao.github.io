@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Ting Gao from China. I'm a research assistant at the School of Engineering, Westlake University in China, supervised by Prof. [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=zh-TW). I'm currently pursuing a Ph.D. in AI Agents, Reinforcement Learning, and Optimization. If you're interested in collaborating or learning more about my work, feel free to reach out! :)
+Hi, this is Ting Gao. I'm currently pursuing a Ph.D. in AI Agents, Reinforcement Learning, or Optimization. If you're interested in collaborating or learning more about my work, feel free to reach out! :)
 
 My research interests include AI agents, Reinforcement Learning, and Optimization.
 
